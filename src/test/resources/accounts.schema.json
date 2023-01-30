@@ -30,7 +30,11 @@
       },
       "currency": {
         "type": "string",
+<<<<<<< HEAD
         "enum": ["RUB", "USD"]
+=======
+        "enum": ["RUR", "USD"]
+>>>>>>> parent of f7ddb9e (PostmanEcho)
       }
     }
   }
